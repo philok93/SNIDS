@@ -6,7 +6,7 @@ SNIDS was implemented in Java using Eclipse IDE. A GUI was also developed using 
 
 More information can be found on: (url of thesis)
 
-The folder "Libraries" includes the 3 libraries required to import into the project to run it.
+The folder "Libraries" includes the Weka and LibSVM libraries required to run the project. Also, JUnit is required to run the "MethodsIDSTest.java" class.
 
 [![DOI](https://zenodo.org/badge/101434573.svg)](https://zenodo.org/badge/latestdoi/101434573)
 
