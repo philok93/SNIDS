@@ -7,3 +7,5 @@ SNIDS was implemented in Java using Eclipse IDE. A GUI was also developed using 
 More information can be found on: (url of thesis)
 
 The folder "Libraries" includes the 3 libraries required to import into the project to run it.
+
+https://zenodo.org/badge/101434573.svg
