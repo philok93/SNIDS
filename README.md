@@ -8,4 +8,5 @@ More information can be found on: (url of thesis)
 
 The folder "Libraries" includes the 3 libraries required to import into the project to run it.
 
-https://zenodo.org/badge/101434573.svg
+[![DOI](https://zenodo.org/badge/101434573.svg)](https://zenodo.org/badge/latestdoi/101434573)
+
